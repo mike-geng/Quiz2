@@ -1,3 +1,9 @@
+/**
+ * @file	college.h
+ * @name	Michael Geng
+ * @date	October 2017
+ */
+
 //********************
 //Matthew Aberegg
 //Project 3
