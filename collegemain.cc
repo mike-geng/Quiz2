@@ -1,3 +1,9 @@
+/**
+ * @file	collegemain.cc
+ * @name	Michael Geng
+ * @date	October 2017
+ */
+
 /******************************************************
 	This is the main for Project 3, which asks you to 
     build a container that holds a list of college courses.
