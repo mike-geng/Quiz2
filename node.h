@@ -1,3 +1,9 @@
+/**
+ * @file	node.cc
+ * @name	Michael Geng
+ * @date	October 2017
+ */
+
 /*************************************************************************
       This file is borrowed heavily from Main/Savitch "Data Structures and
       Other Object Using C++," Chapter 5. It features a node class that 
