@@ -1,3 +1,9 @@
+/**
+ * @file	course.cc
+ * @name	Michael Geng
+ * @date	October 2017
+ */
+
 /***********************************************************************
 	The implementation file for course.h, which describes a college
 	course.
