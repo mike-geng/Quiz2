@@ -75,6 +75,11 @@ College& College::operator =(const College& other){
 	return * this;
 }
 
+// ! An add function.
+/*!
+ * This function is called when adding a course to your schedule. It adds the course to the link lists and collects
+ * all of the information needed to build it.
+ */
 void College::add(course& c){
 	node * previous;
 	node * cursor;
@@ -113,6 +118,11 @@ void College::add(course& c){
 	}
 }
 
+// ! A remove function.
+/*!
+ * This function is called when removing a course from your schedule. It removes the course to the linked list and connects the nodes 
+ * on either side of it so that the list is not broken by its removal.
+ */
 void College::remove(std::string coursename){
 	node * previous;	
 	node * cursor;
@@ -135,6 +145,11 @@ void College::remove(std::string coursename){
 }
 }
 
+// ! A display function.
+/*!
+ * This function displays all of the contents in a linked list. It uses a while loop to travel from node to node outputting 
+ * each nodes data.
+ */
 void College::display(std::ostream& outs){
 	node * ptr;
 	ptr = head;
