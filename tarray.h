@@ -1,3 +1,9 @@
+/**
+ * @file	tarray.cc
+ * @name	Michael Geng
+ * @date	October 2017
+ */
+
 /*********************************************************************
 	This is a class to introduce you to the syntax of working with 
 	template classes. Notice that the type being stored is completely
